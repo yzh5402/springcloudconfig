@@ -8,3 +8,5 @@ spring:
             failFast: true
             overrideNone: true #覆盖非系统属性　true不覆盖
             overrideSystemProperties: false #覆盖系统属性 false不覆盖
+
+foo: i am foo,but i changed! changed!changed!
